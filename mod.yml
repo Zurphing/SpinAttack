@@ -1,0 +1,8 @@
+title: Spin Attack
+originalAuthor: Zurphing
+description: Rotate your control stick or the D-Pad to activate a spin attack. You'll only have one second to activate it before you lose it!
+assets:
+- name: scripts/SpinAttack.lua
+  method: copy
+  source:
+  - name: SpinAttack.lua
